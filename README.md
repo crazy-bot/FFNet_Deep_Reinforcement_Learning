@@ -1,3 +1,6 @@
+
+This is pytorch implementation of the paper  [FFNet: Video Fast-Forwarding via Reinforcement Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lan_FFNet_Video_Fast-Forwarding_CVPR_2018_paper.pdf)
+
 # FFNet_Implementation
 
 FFNet_Tensor - all files of tensor
