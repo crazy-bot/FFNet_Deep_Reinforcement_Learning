@@ -20,10 +20,10 @@ TVSum dataset:[TVSum](https://github.com/yalesong/tvsum)
 - createVideo.py
 
 #### Results ( mean coverage of keyframes & Hit Number )
-TVSum50
+- TVSum50
 ![tvsum50](https://github.com/crazy-bot/FFNet_Implementation/blob/master/FFNet_Torch/tvsum50_out/tvsum50_test_me.png)
+- Tour20
 
-Tour20
 ![tour20](https://github.com/crazy-bot/FFNet_Implementation/blob/master/FFNet_Torch/tour20_out/tour20_test_me.png)
 
 
