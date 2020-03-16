@@ -7,17 +7,24 @@ This is pytorch implementation of the paper  [FFNet: Video Fast-Forwarding via R
 
 ### Our Implementation in Pytorch
 
-Dataset was downloaded as per the main github page
+**Dataset was downloaded as per the main github page**
 
-Tour20 dataset:[](https://vcg.ece.ucr.edu/)
+Tour20 dataset:[Tour20](https://vcg.ece.ucr.edu/)
 
-TVSum dataset:[](https://github.com/yalesong/tvsum)
+TVSum dataset:[TVSum](https://github.com/yalesong/tvsum)
+
+**Pre and Pose processing of data (not present in official page)**
+
+video2frame.py
+
+util.py
+
+createVideo.py
 
 
 
-FFNet_Torch/util.py - contains functions for data preparation
-FFNet_Torch/video2frame.py - video to frames
-other files are as per their naming.
+
+
 
 
 
