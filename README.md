@@ -7,6 +7,8 @@ This is pytorch implementation of the paper  [FFNet: Video Fast-Forwarding via R
 
 ### Our Implementation in Pytorch
 
+Please go to FFNet_Torch
+
 **Dataset was downloaded as per the main github page**
 
 Tour20 dataset:[Tour20](https://vcg.ece.ucr.edu/)
