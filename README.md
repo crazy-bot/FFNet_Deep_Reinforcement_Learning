@@ -15,11 +15,9 @@ TVSum dataset:[TVSum](https://github.com/yalesong/tvsum)
 
 **Pre and Pose processing of data (not present in official page)**
 
-video2frame.py
-
-util.py
-
-createVideo.py
+- video2frame.py
+- util.py
+- createVideo.py
 
 
 
